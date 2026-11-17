@@ -1,0 +1,8 @@
+{
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}\\_build\\OPG3\\default",
+    "mplab.clangd.arguments": [
+        "--header-insertion=never"
+    ],
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-clangd.exe",
+    "cmake.sourceDirectory": "C:/Users/Z6APT/Desktop/OPG3/cmake/OPG3/default"
+}
